@@ -10,8 +10,6 @@ A **simple Product Catalog system** that uses **MongoDB database** for storing p
 
 **Topic**: Product Catalog with MongoDB
 
----
-
 ## 🎯 What This Project Has:
 
 ✅ **MongoDB Database** - Real database storage (the main requirement!)  
@@ -21,7 +19,6 @@ A **simple Product Catalog system** that uses **MongoDB database** for storing p
 ✅ **Simple Web Interface** - Easy to use  
 ✅ **Data Persistence** - Products saved permanently in MongoDB  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +28,6 @@ A **simple Product Catalog system** that uses **MongoDB database** for storing p
 
 **The important part is MongoDB - that's the concept!**
 
----
 
 ## ⚡ Quick Setup (20 Minutes)
 
@@ -76,7 +72,6 @@ Visit: http://localhost:3000/seed
 
 Open: http://localhost:3000
 
----
 
 ## 📁 Project Structure
 
@@ -88,7 +83,6 @@ product-catalog-mongodb/
     └── index.html      # Web interface
 ```
 
----
 
 ## 💻 How It Works
 
@@ -99,8 +93,6 @@ product-catalog-mongodb/
 
 **The key concept: Everything is stored in MongoDB!**
 
----
-
 ## 🧪 Testing
 
 1. Start server: `npm start`
@@ -109,8 +101,6 @@ product-catalog-mongodb/
 4. Add a product - check MongoDB
 5. Delete a product - check MongoDB
 6. Refresh page - products persist (because they're in MongoDB!)
-
----
 
 ## 📤 GitHub Submission
 
@@ -121,46 +111,12 @@ Upload these files:
 - README.md (this file)
 - screenshots/
 
----
-
-## 📧 Submission Template
-
-```
-Subject: Naan Mudhalvan - Product Catalog with MongoDB
-
-Dear Sir/Madam,
-
-Project: Product Catalog with MongoDB
-Student: [Your Name]
-Roll No: [Your Roll Number]
-
-GitHub: https://github.com/YOUR-USERNAME/product-catalog-mongodb
-
-Technology:
-- Database: MongoDB (main focus)
-- Server: Node.js + Express
-- Interface: HTML/CSS/JavaScript
-
-Key Feature: All products stored in MongoDB database with 
-persistent storage, add/delete operations.
-
-Status: ✅ Complete and tested
-
-Best regards,
-[Your Name]
-```
-
----
-
-## 🎓 What You'll Demonstrate
+## 🎓 What is Demonstrated
 
 ✅ **MongoDB Integration** - Real database connection  
 ✅ **CRUD Operations** - Create, Read, Delete with MongoDB  
 ✅ **Data Persistence** - MongoDB stores data permanently  
 ✅ **Database Concepts** - Schema, collections, documents  
 
-**This clearly shows you understand MongoDB!**
 
----
 
-Made for Naan Mudhalvan 2025 | Topic: Product Catalog with MongoDB
